@@ -1,0 +1,17 @@
+Studenti:
+
+Martin Šimara   - SimaraM
+Milan Fucek     - FucekM
+Michal Novák    - NovakM
+Ondřej Michna   - MichnaO
+Martin Zapletal - ZapletalM
+Radim Šimara    - SimaraR
+David Šimara    - SimaraD
+
+Pedagogové:
+
+Bogdan Walek     - WalekB
+Rostislav Fojtík - FojtikR
+Marek Vajgl      - VajglM
+Pavel Smolka     - SmolkaP
+František Huňka  - HunkaF

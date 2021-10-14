@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<employees status = "ok">
+
+        <record employee_no = "101">
+
+            <name age="45">Pavel Novák</name>
+
+            <position>ředitel</position>
+
+        </record>
+
+        <record employee_no = "102">
+
+            <name age="55">Petr Novák</name>
+
+            <position>finanční ředitel</position>
+
+        </record>
+
+        <record employee_no = "103">
+
+            <name age="48">Karel Nový</name>
+
+            <position>technický ředitel</position>
+
+        </record>
+
+</employees>

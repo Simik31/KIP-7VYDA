@@ -1,0 +1,114 @@
+@import 'bootstrap.min.css';
+
+::-webkit-scrollbar-track { background-color: rgb(245, 245, 245) !important; }
+::-webkit-scrollbar-thumb { background-color: rgb(150, 150, 150) !important; border-radius: 3px}
+::-webkit-scrollbar {width: 12px;}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    min-width: 800px;
+    text-align: center;
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+    -ms-flex-align: center;
+    -ms-flex-pack: center;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #f5f5f5;
+}
+
+form {
+    width: 100%;
+    padding: 15px;
+    margin: 0 auto;
+}
+.form .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+}
+.form .form-control:focus {
+    z-index: 2;
+}
+.form input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.form input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.form .btn-group-toggle {
+    margin-bottom: 10px;
+}
+
+.placeholder {
+    height: 50px;
+}
+
+.max-w-330 {
+    max-width: 330px;
+}
+
+.padding-left-15 {
+    padding-left: 15px;
+}
+
+#switch{
+    position:fixed;
+    width:50px;
+    height:50px;
+    bottom:30px;
+    right:30px;
+    cursor: pointer;
+    border-radius:50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%
+ }
+
+.align-text-left {
+    text-align: left;
+}
+
+.align-text-right {
+    text-align: right;
+}
+
+.margin-left-2 {
+    margin-left: 16.6667%;
+}
+
+.col {
+     white-space: nowrap;
+     width: 1%;
+ }
+
+.position-absolute {
+    top: 0;
+}
+
+.edit_exam {
+    min-width: 140px;
+}
+
+.edit_results {
+    min-width: 165px;
+}
+
+table th {
+    vertical-align:middle!important;
+}
